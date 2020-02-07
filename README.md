@@ -1,2 +1,2 @@
 # parametric_analysis_jet_engine
-parametric analysis optimization program for turbofan engines
+Parametric analysis optimization program for turbofan engines. Uses ideal equations and stocastic gradient descent optimization to find optimum alpha and pressure ratios
